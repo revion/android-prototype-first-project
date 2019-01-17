@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Form Pengajuan Retur</string>
+    <string name="cNameForm_value">Nama Lengkap</string>
+    <string name="emailForm_value">Alamat email</string>
+    <string name="phoneNumberForm_value">Nomor Telepon/HP</string>
+    <string name="productNumberForm_value">Jumlah Barang</string>
+    <!-- Product List Name -->
+    <string name="productListForm_value1">Pilih item</string>
+    <string name="productListForm_value2">Product A</string>
+    <string name="productListForm_value3">Product B</string>
+    <string name="productListForm_value4">Product C</string>
+    <!-- Button List Name -->
+    <string name="submitButton_words">Submit</string>
+    <!-- Error Text List -->
+    <string name="errorValue">Empty input</string>
+</resources>
